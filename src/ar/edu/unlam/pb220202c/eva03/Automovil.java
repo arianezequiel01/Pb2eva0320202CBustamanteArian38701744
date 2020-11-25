@@ -44,12 +44,7 @@ public class Automovil extends Vehiculo {
 	public static Integer getLimiteVelocidadAutomovil() {
 		return limiteVelocidadAutomovil;
 	}
-
-
-
-	public static void setLimiteVelocidadAutomovil(Integer limiteVelocidadAutomovil) {
-		Automovil.limiteVelocidadAutomovil = limiteVelocidadAutomovil;
-	}
+	
 
 	//Si es necesario Utilice herencia o implemente de Interfaces
 //	Se debe crear contructeres getters y Setters y loos que crean convenientes

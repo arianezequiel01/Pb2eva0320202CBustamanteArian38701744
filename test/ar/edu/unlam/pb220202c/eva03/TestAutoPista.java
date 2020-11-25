@@ -15,11 +15,11 @@ public class TestAutoPista {
 		
 	}
 
-	public void generetestAEleccion1() {
+	public void queSePuedaGenerarUnVehiculo() {
 		
 	}
 	
-	public void generetestAEleccion2() {
+	public void que() {
 		
 	}
 	
